@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Renzo 👋
 
-<!--
-**yanorenzo624/yanorenzo624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building responsive, accessible, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Self-taught Frontend Developer
+- Strong foundation in HTML, CSS, and JavaScript
+- Passionate about clean UI, performance, and modern web technologies
+- Actively building projects and improving every day
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Next.js
+- **Styling:** Tailwind CSS, Sass
+- **Tools:** Git, GitHub, Figma, VS Code
+- **Other:** Responsive Design, REST APIs, Accessibility (a11y)
+
+---
+
+## 🚀 Projects
+- **E-commerce Store**  
+  React, Tailwind CSS  
+  🔗 Live: 
+  💻 Code: 
+
+- **Dashboard App**  
+  React, Chart.js  
+  🔗 Live: 
+  💻 Code: 
+
+---
+
+## 📫 Contact
+- Portfolio: 
+- GitHub: https://github.com/yanorenzo624
+- Email: yanorenzo624@gmail.com
+
+---
+
+⭐️ Feel free to explore my repositories and projects!
