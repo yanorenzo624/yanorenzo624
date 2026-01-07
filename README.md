@@ -22,15 +22,15 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
 ---
 
 ## 🚀 Projects
-- **E-commerce Store**  
-  React, Tailwind CSS, Context API, REST API
-  🔗 Live: 
-  💻 Code: 
+ ### E-commerce Store  
+  - React, Tailwind CSS, Context API, REST API
+  - 🔗 Live: 
+  - 💻 Code: 
 
-- **Admin Dashboard**  
-  React, JavaScript, Tailwind CSS, React Router, Recharts, Context API, Vite
-  🔗 Live: 
-  💻 Code: 
+ ### Admin Dashboard  
+  - React, JavaScript, Tailwind CSS, React Router, Recharts, Context API, Vite
+  - 🔗 Live: 
+  - 💻 Code: 
 
 ---
 
