@@ -25,12 +25,12 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
  ### E-commerce Store  
   - React, Tailwind CSS, Context API, REST API
   - 🔗 Live: 
-  - 💻 Code: 
+  - 💻 Code: https://github.com/yanorenzo624/ecommerce
 
  ### Admin Dashboard  
   - React, JavaScript, Tailwind CSS, React Router, Recharts, Context API, Vite
   - 🔗 Live: 
-  - 💻 Code: 
+  - 💻 Code: https://github.com/yanorenzo624/admin-dashboard
 
 ---
 
