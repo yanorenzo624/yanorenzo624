@@ -40,7 +40,7 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
 ---
 
 ## 📫 Contact
-- Portfolio: https://renzoyano.vercel.app/
+- Portfolio: https://yanorenzo.vercel.app/
 - GitHub: https://github.com/yanorenzo624
 - Email: yanorenzo624@gmail.com
 
