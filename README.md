@@ -32,6 +32,11 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
   - 🔗 Live: 
   - 💻 Code: https://github.com/yanorenzo624/admin-dashboard
 
+### Kanban board  
+  - React, TypeScript, Tailwind CSS, DnD-kit, Context API, Vitest, Vite
+  - 🔗 Live: 
+  - 💻 Code: https://github.com/yanorenzo624/kanban-board
+
 ---
 
 ## 📫 Contact
