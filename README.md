@@ -14,7 +14,7 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
 
 ## 🛠 Tech Stack
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks & Libraries:** React, Next.js
+- **Frameworks & Libraries:** React
 - **Styling:** Tailwind CSS, Sass
 - **Tools:** Git, GitHub, Vitest, Figma, VS Code
 - **Other:** Responsive Design, REST APIs, Accessibility (a11y)
