@@ -24,23 +24,23 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
 ## 🚀 Projects
  ### E-commerce Store  
   - React, Tailwind CSS, Context API, REST API
-  - 🔗 Live: 
+  - 🔗 Live: https://ecommerce-two-psi-57.vercel.app/
   - 💻 Code: https://github.com/yanorenzo624/ecommerce
 
  ### Admin Dashboard  
   - React, JavaScript, Tailwind CSS, React Router, Recharts, Context API, Vite
-  - 🔗 Live: 
+  - 🔗 Live: https://admin-dashboard-two-theta-34.vercel.app/
   - 💻 Code: https://github.com/yanorenzo624/admin-dashboard
 
 ### Kanban board  
   - React, TypeScript, Tailwind CSS, DnD-kit, Context API, Vitest, Vite
-  - 🔗 Live: 
+  - 🔗 Live: https://kanban-board-virid-two.vercel.app/
   - 💻 Code: https://github.com/yanorenzo624/kanban-board
 
 ---
 
 ## 📫 Contact
-- Portfolio: 
+- Portfolio: https://renzoyano.vercel.app/
 - GitHub: https://github.com/yanorenzo624
 - Email: yanorenzo624@gmail.com
 
