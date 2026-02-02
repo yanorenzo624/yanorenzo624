@@ -5,7 +5,6 @@ Frontend Developer focused on building responsive, accessible, and user-friendly
 ---
 
 ## 🧠 About Me
-- Self-taught Frontend Developer
 - Strong foundation in HTML, CSS, and JavaScript
 - Passionate about clean UI, performance, and modern web technologies
 - Actively building projects and improving every day
